@@ -1,4 +1,4 @@
-Resources:
+# Resources:
 
 https://cryptonote.org/cns/cns006.txt
 
